@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Gabi 👋
 
-I'm a Journalist-turned-**Data Analist** based in the Netherlands. I like diving into new data, solving problems and baking cakes - not always in this order. 
+As a journalist-turned-**Data Analyst** based in the Netherlands, I enjoy finding stories in data, solving puzzles, and occasionally baking cakes (when I need a break from the first two).
 
-My mother tonge is Portuguese. My **SQL** is as good as my Spanish. My **Python** is better than my Dutch. And I'm fluent in English and sarcasm.
+My mother tongue is Portuguese, my **SQL** is as sharp as my Spanish, and my **Python** is definitely better than my Dutch. Oh, and I speak fluent English—with a side of sarcasm.
 
-Please, feel free to poak around - and to send me a message if you're looking for a project buddy for a Star Trek Data Analysis. 🖖🏼
+Feel free to explore my work, and if you're a fellow data nerd—or a Star Trek fan—let's connect. 🖖🏼
